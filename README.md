@@ -21,7 +21,7 @@
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-ffa7a7?style=flat&logo=JavaScript&logoColor=white"/></a> 
   <br />
   <a href="#"><img src="https://img.shields.io/badge/GitHub-%23F3708C?style=flat&logo=GitHub&logoColor=white"/></a> 
-  <a href="#"˃̵͈̑ᴗ˂̵͈̑img src="https://img.shields.io/badge/Redmine-%23F3708C?style=flat&logo=Redmine&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Redmine-%23F3708C?style=flat&logo=Redmine&logoColor=white"/></a>
 	</div>
 
 
