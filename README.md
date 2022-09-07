@@ -31,7 +31,7 @@
  <h3>👩🏻‍💻 about me 👩🏻‍💻</h3>
 
 [![Tstory Badge](https://img.shields.io/badge/-Tstory-92a8d1?logo=Velog&logoColor=white&link=https://yeacoding.tistory.com/)](https://muki-soko.tistory.com/)
-[![Notion Badge](https://img.shields.io/badge/-Tstory-92a8d1?logo=Velog&logoColor=white&link=https://yeacoding.tistory.com/)](https://gabby-plywood-978.notion.site/cf4a77a5542e45aabd056fde34494cc2)
+[![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://gabby-plywood-978.notion.site/cf4a77a5542e45aabd056fde34494cc2)](https://gabby-plywood-978.notion.site/cf4a77a5542e45aabd056fde34494cc2)
 
  <br />
 
